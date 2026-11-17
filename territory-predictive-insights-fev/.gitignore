@@ -1,0 +1,8 @@
+target/
+dados/
+*.class
+*.log
+*.csv
+.idea/
+.vscode/
+*.iml
